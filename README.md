@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 💫 About Me:
 🚀 Just a coder. | 💻 Exploring new tech. | 🏗️ Building things.
 
