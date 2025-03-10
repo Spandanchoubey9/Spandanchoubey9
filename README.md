@@ -1,5 +1,6 @@
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi There👋!</h2>
+<h2 align="left">🚀 Just a coder. | 💻 Exploring new tech. | 🏗️ Building things.</h2>
 
 ###
 
