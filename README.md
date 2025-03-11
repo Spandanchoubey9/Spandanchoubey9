@@ -5,7 +5,8 @@
 
 
 <div align="left">
-# 📊 GitHub Stats:
+#
+GitHub Stats:
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Spandanchoubey9&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spandanchoubey9&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
