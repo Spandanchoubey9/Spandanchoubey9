@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br>🚀 Just a coder. | 💻 Exploring new tech. | 🏗️ Building things.</h2>
+<h2 align="left">Hello There!👋! <br>🚀 Just a coder. | 💻 Exploring new tech. | 🏗️ Building things.</h2>
 
 ###
 <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanFjNnk3aTRycGEyMTR1NWNyNHU2aG10cWhibmE3amkxbW9seDlnNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
